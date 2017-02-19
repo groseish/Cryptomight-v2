@@ -5,6 +5,7 @@ I used Netbeans 8.1 to make it.
 And additions/suggestions are highly encouraged and appreciated. 
 
 Step 1) Clone the repo to a local directory.
+
 Step 2) Open Netbeans 8.2
 Step 3) Click 'Open Project' in the File Menu and navigate to the clone /dir/.
 Step 4) Open the cryptomight-v2 project. 
